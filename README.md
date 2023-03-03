@@ -1,2 +1,3 @@
-# terraform-test-website-iac
-Terraform IaC for building the infrastructure for the test website
+# terraform-s3-static-website
+
+Terraform for hosting a static website hosted on AWS using S3.
